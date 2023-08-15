@@ -7,10 +7,10 @@
   - [osTicket: Configuring User and Agent Accounts](https://github.com/ShayneSL/osTicket-BackEnd-Config)
   - [osTicket: Ticket Lifecycle](https://github.com/ShayneSL/Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Microsoft Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Microsoft Azure VMs](https://github.com/ShayneSL/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ShayneSL/azure-network-protocols)
 - <b>VPNs</b>
-  - [VPN setup using ProtonVPN](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [VPN setup and configuration using ProtonVPN](https://github.com/ShayneSL/VPN-config)
 
 <h2>🤳Connect with me:</h2>
 

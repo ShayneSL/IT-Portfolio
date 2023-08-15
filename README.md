@@ -4,13 +4,13 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Help Desk System Full Setup](https://github.com/ShayneSL/osTicket-Setup)
-  - [osTicket: Configuring User and Agent Accounts](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Configuring User and Agent Accounts](https://github.com/ShayneSL/osTicket-BackEnd-Config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Microsoft Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b>VPNs</b>
-  - [VPN setup using ProtonVPN] (https://github.com/joshmadakorcc/configure-ad)
+  - [VPN setup using ProtonVPN](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
